@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Web-D_Bookly/static/css/main.b25ab96a.css",
+    "main.js": "/Web-D_Bookly/static/js/main.40189cb0.js",
+    "static/media/library-img.jpg": "/Web-D_Bookly/static/media/library-img.4c355c0290b94d1fe920.jpg",
+    "static/media/cover_not_found.jpg": "/Web-D_Bookly/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/about-img.jpg": "/Web-D_Bookly/static/media/about-img.b7521da541400a1eefdb.jpg",
+    "index.html": "/Web-D_Bookly/index.html",
+    "static/media/loader.svg": "/Web-D_Bookly/static/media/loader.6c0828960ed1bbaa70bea73dd9dcb56e.svg",
+    "main.b25ab96a.css.map": "/Web-D_Bookly/static/css/main.b25ab96a.css.map",
+    "main.40189cb0.js.map": "/Web-D_Bookly/static/js/main.40189cb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b25ab96a.css",
+    "static/js/main.40189cb0.js"
+  ]
+}
